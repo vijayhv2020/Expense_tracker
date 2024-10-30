@@ -1,8 +1,8 @@
-# Expense_tracker
-Expense_tracker_Project
+# Personal_Expense_tracker
+Personal_Expense_tracker
 
 Overview
-This Expense Tracker is a simple command-line application designed to help users manage their expenses. It allows users to add, view, and track their expenses while saving them in a CSV file for later reference.
+This Personal Expense Tracker is a simple command-line application designed to help users manage their expenses. It allows users to add, view, and track their expenses while saving them in a CSV file for later reference.
 
 Features
 - Add Expense: Input date, category, amount, and description for an expense.
